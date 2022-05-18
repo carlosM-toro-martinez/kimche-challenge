@@ -1,23 +1,23 @@
 import React from 'react';
-import { CountriesContext } from '../countriesContext';
 import './CountriesSearch.css';
+import {Encabezado} from './styledP';
 
-function CountriesSearch() {
-  const { searchValue, setSearchValue } = React.useContext(CountriesContext);
-  
-  
+function CountriesSearch(props) {
   const onSearchValueChange = (event) => {
     console.log(event.target.value);
-    setSearchValue(event.target.value);
+    props.setSearchValue(event.target.value);
   };
 
   return (
+    <><Encabezado>
+      Country Search
+    </Encabezado>
+    
     <input
-      className="CountriesSearch"
-      placeholder="SEARCH COUNTRIES"
-      value={searchValue}
-      onChange={onSearchValueChange}
-    />
+        className="CountriesSearch"
+        placeholder="SEARCH COUNTRIES"
+        value={props.searchValue}
+        onChange={onSearchValueChange} /></>
   );
 }
 

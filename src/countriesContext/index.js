@@ -29,7 +29,6 @@ function CountriesProvider(props) {
   } = useCards(ALL_COUNTRIES);
   const [searchValue, setSearchValue] = React.useState('');
   const [buttonActive, changeActive] = React.useState('lenguaje');
-  console.log(typeof data)
 
   
 
@@ -40,7 +39,6 @@ function CountriesProvider(props) {
         searchedCards = data.countries;
       } else {
         searchedCards = data.countries.filter(countries => {
-          
           const cardText = countries.name.toLowerCase();
           const searchText = searchValue.toLowerCase();
           return cardText.includes(searchText);
@@ -49,7 +47,6 @@ function CountriesProvider(props) {
       }
     }
 
-    console.log(typeof searchedCards)
 
   
   return (

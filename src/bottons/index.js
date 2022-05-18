@@ -1,16 +1,11 @@
 import React from 'react';
-import { CountriesContext } from '../countriesContext';
 import {Contenedor, ButtonStyled} from './styledButton'
-import {Encabezado } from '../lenguages/styledLoading'
+import {Encabezado } from '../CountriesSearch/styledP'
 
-
-
-
-function Buttons(){
-  const { changeActive } = React.useContext(CountriesContext);
+function Buttons(props){
 
     const clickk = (tipo) => {
-        changeActive(tipo);
+        props.changeActive(tipo);
     }
     
     return (
