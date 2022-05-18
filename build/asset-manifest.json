@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/css/main.288c28ac.css",
-    "main.js": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/js/main.d0c5546d.js",
-    "index.html": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/index.html",
-    "main.288c28ac.css.map": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/css/main.288c28ac.css.map",
-    "main.d0c5546d.js.map": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/js/main.d0c5546d.js.map"
+    "main.css": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/static/css/main.288c28ac.css",
+    "main.js": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/static/js/main.b1d37d3a.js",
+    "index.html": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/index.html",
+    "main.288c28ac.css.map": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/static/css/main.288c28ac.css.map",
+    "main.b1d37d3a.js.map": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/static/js/main.b1d37d3a.js.map"
   },
   "entrypoints": [
     "static/css/main.288c28ac.css",
-    "static/js/main.d0c5546d.js"
+    "static/js/main.b1d37d3a.js"
   ]
 }

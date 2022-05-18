@@ -25,7 +25,6 @@
     "prepare": "husky install",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -48,5 +47,5 @@
     "gh-pages": "^4.0.0",
     "husky": "^8.0.1"
   },
-  "homepage": "https//:carlosM-toro-martinez.githu.io/kimche-challenge"
+  "homepage": "https//:carlosm-toro-martinez.githu.io/kimche-challenge"
 }
