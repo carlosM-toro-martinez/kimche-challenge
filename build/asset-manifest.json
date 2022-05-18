@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/css/main.7a9966f9.chunk.css",
+    "main.js": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/js/main.b85d8049.chunk.js",
+    "main.js.map": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/js/main.b85d8049.chunk.js.map",
+    "runtime-main.js": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/js/runtime-main.1958c526.js",
+    "runtime-main.js.map": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/js/runtime-main.1958c526.js.map",
+    "static/css/2.4253ffa8.chunk.css": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/css/2.4253ffa8.chunk.css",
+    "static/js/2.4060f257.chunk.js": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/js/2.4060f257.chunk.js",
+    "static/js/2.4060f257.chunk.js.map": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/js/2.4060f257.chunk.js.map",
+    "index.html": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/index.html",
+    "precache-manifest.f0a6573e659cd4bb566e57c8e7a03a20.js": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/precache-manifest.f0a6573e659cd4bb566e57c8e7a03a20.js",
+    "service-worker.js": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/service-worker.js",
+    "static/css/2.4253ffa8.chunk.css.map": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/css/2.4253ffa8.chunk.css.map",
+    "static/css/main.7a9966f9.chunk.css.map": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/css/main.7a9966f9.chunk.css.map",
+    "static/js/2.4060f257.chunk.js.LICENSE.txt": "/https//:carlosM-toro-martinez.githu.io/kimche-challenge/static/js/2.4060f257.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1958c526.js",
+    "static/css/2.4253ffa8.chunk.css",
+    "static/js/2.4060f257.chunk.js",
+    "static/css/main.7a9966f9.chunk.css",
+    "static/js/main.b85d8049.chunk.js"
+  ]
+}
