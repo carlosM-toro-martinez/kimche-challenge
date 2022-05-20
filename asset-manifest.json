@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/static/css/main.288c28ac.css",
-    "main.js": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/static/js/main.b1d37d3a.js",
-    "index.html": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/index.html",
-    "main.288c28ac.css.map": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/static/css/main.288c28ac.css.map",
-    "main.b1d37d3a.js.map": "/https//:carlosm-toro-martinez.githu.io/kimche-challenge/static/js/main.b1d37d3a.js.map"
+    "main.css": "/ghpages-countries/static/css/main.288c28ac.css",
+    "main.js": "/ghpages-countries/static/js/main.d21929a0.js",
+    "index.html": "/ghpages-countries/index.html",
+    "main.288c28ac.css.map": "/ghpages-countries/static/css/main.288c28ac.css.map",
+    "main.d21929a0.js.map": "/ghpages-countries/static/js/main.d21929a0.js.map"
   },
   "entrypoints": [
     "static/css/main.288c28ac.css",
-    "static/js/main.b1d37d3a.js"
+    "static/js/main.d21929a0.js"
   ]
 }
